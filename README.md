@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ayushshriwastav
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning DevOps tool Example: Git, Docker, Chef, Ansible,Maven,Jenkins, Nagios
-- 💞️ I’m looking to DevOps Engineer Job and I am working project of DevOps
+- Ayush Shriwastav
+- IoT | Python | ML | Data Science
 - 📫 You can reach me with my email = "shriwastavayush@gmail.com"
 
 <!---
