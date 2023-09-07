@@ -1,5 +1,5 @@
 - Ayush Shriwastav
-- IoT | Python | ML | Data Science
+- IoT | Data Analyst | Python | ML | Data Science | Node JS | Flutter | Angular JS
 - 📫 You can reach me with my email = "shriwastavayush@gmail.com"
 
 <!---
